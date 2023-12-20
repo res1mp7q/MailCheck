@@ -9,9 +9,8 @@ Prerequisites
 *   Python 3.x
 *   Flask (for the web application)
 
-Installation
-------------
-
+Usage
+-------------
 Clone the repository:
 
 bash
@@ -19,30 +18,28 @@ bash
 git clone https://github.com/your-username/email-validation-script.git
 cd email-validation-script
 
-Install the required Python packages:
+Run the script:
 
 bash
 
-    pip install -r requirements.txt
+python email_validation_script.py
 
-Usage
+Enter an email address when prompted.
 
-    Run the Flask web application:
+Review the information about the domain records for the provided email address.
 
-    bash
+Requirements
 
-    python app.py
+Python 3.x
 
-    Open your web browser and go to http://127.0.0.1:5000/.
+Contributing
 
-    Enter an email address in the form and click "Validate" to see information about the domain.
-
+Contributions are welcome! Please fork the repository and submit a pull request.
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 Acknowledgments
 
-    Flask: Web framework for Python
 
 Author
 
