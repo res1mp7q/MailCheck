@@ -13,14 +13,13 @@ Usage
 -------------
 Clone the repository:
 
-bash
 
-git clone https://github.com/your-username/email-validation-script.git
-cd email-validation-script
+
+    git clone https://github.com/res1mp7q/MailCheck.git
+    cd email-validation-script
 
 Run the script:
 
-bash
 
     python email_validation_script.py
 
