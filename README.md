@@ -22,15 +22,15 @@ Run the script:
 
 bash
 
-python email_validation_script.py
+    python email_validation_script.py
 
-Enter an email address when prompted.
+    Enter an email address when prompted.
 
-Review the information about the domain records for the provided email address.
+    Review the information about the domain records for the provided email address.
 
 Requirements
 
-Python 3.x
+    Python 3.x
 
 Contributing
 
@@ -40,7 +40,10 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Acknowledgments
 
+    Special thanks to Flask for inspiration.
 
 Author
+
+
 
 [Jimmy Lamont]
