@@ -16,12 +16,12 @@ Clone the repository:
 
 
     git clone https://github.com/res1mp7q/MailCheck.git
-    cd email-validation-script
+    cd MailCheck
 
 Run the script:
 
 
-    python email_validation_script.py
+    python3 main.py
 
     Enter an email address when prompted.
 
