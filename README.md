@@ -20,7 +20,7 @@ Clone the repository:
 Run the script:
 
 
-    python3 main.py
+    python3 mailcheck.py
 
     Enter an email address when prompted.
 
