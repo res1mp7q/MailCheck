@@ -7,7 +7,6 @@ Prerequisites
 -------------
 
 *   Python 3.x
-*   Flask (for the web application)
 
 Usage
 -------------
